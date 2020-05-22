@@ -2,10 +2,10 @@
 A vscode extension that comments out print statements for various languages.
 
 ## Index
-- Context
-- Usage
-- Set-up
-- Authors
+- [Context](https://github.com/AtharvaThorve/Console-Cleaner#context)
+- [Usage](https://github.com/AtharvaThorve/Console-Cleaner#usage)
+- [Set-up](https://github.com/AtharvaThorve/Console-Cleaner#set-up)
+- [Authors](https://github.com/AtharvaThorve/Console-Cleaner#authors)
 
 ## Context
 This is a vscode that can comment out print statements for various languages like (Javascript, Python, Java and C++).<br>
